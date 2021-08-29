@@ -1,4 +1,4 @@
-<h3>Geometry</h3>
+### Geometry
 
   - [x] [CCW(Counter Clock Wise)](https://wogud6792.tistory.com/12?category=315912)
   - [x] Convex Hull(Graham Scan)
@@ -7,7 +7,7 @@
   - [x] Sweep line algorithm(Sweeping)
   - [ ] OBB(object oriented bounding box)
   
-<h3>Math</h3>
+### Math
 
   - [x] Karatsuba algorithm
   - [x] Sieve of Eratosthenes
@@ -15,7 +15,7 @@
   - [ ] Chinese Remainder Theorem
   - [ ] Fast Fourier Transform
   
-<h3>Tree</h3>
+### Tree
 
   - [x] Lazy Propagation
   - [x] LCA(Lowest Common Ancestor)
@@ -25,7 +25,7 @@
   - [x] Treap
   - [ ] Persistent Segment Tree
 
-<h3>Graph</h3>
+### Graph
 
   - [x] Dominating set(unrooted tree)
   - [x] SCC(Tarjan Algorithm)
@@ -50,7 +50,7 @@
     - [ ] Dinic's Algorithm
     - [ ] Hopcroft-Karp Algorithm
 
-<h3>String</h3>
+### String
 
   - [x] [KMP(Knuth-Morris-Pratt Algorithm)](https://vvshinevv.tistory.com/2)
   - [ ] LCS(Longest Common Subsequence)
@@ -64,7 +64,7 @@
   - [ ] Manacher's Algorithm<br>
   - [ ] Z algorithm<br>
   
-<h3>Search+Query</h3>
+### Search + Query
 
   - [ ] Ternary Search<br>
   - [ ] Parallel Binary Search<br>
@@ -72,7 +72,7 @@
   - [ ] Mo's algorithm<br>
   - [ ] Offine Query<br>
 
-<h3>etc</h3>
+### etc
 
   - [ ] Personalized recommender systems
   - [ ] Multi-armed bandit
