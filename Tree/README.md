@@ -5,9 +5,13 @@
     - using Fenwick tree : [https://github.com/evelyn82/Algorithm/blob/master/Tree/ps/boj_1275_fw.cpp](https://github.com/evelyn82/Algorithm/blob/master/Tree/ps/boj_1275_fw.cpp)
     - using Segment tree : [https://github.com/evelyn82/Algorithm/blob/master/Tree/ps/boj_1275_sgt.cpp](https://github.com/evelyn82/Algorithm/blob/master/Tree/ps/boj_1275_sgt.cpp)
 - [x] [**_boj_1280 나무 심기_**](https://github.com/evelyn82/Algorithm/blob/master/Tree/ps/boj_1280.cpp)
+    > 서로의 거리가 a, 2a+b, 3a+2b+c ... 처럼 선형이니깐 쉽게 풀 수 있을 것이라고 생각했는데, 주어지는 나무의 위치는 좌표 순으로 주어진다는 보장이 없다.<br>즉, 좌표를 기준으로 왼쪽에 있는, 오른쪽에 있는 나무의 위치를 따로 구해야 한다.<br>
 - [x] [**_boj_2517 달리기_**](https://github.com/evelyn82/Algorithm/blob/master/Tree/ps/boj_2517.cpp)
+    > 좌표압축을 하지 않아 에러가 발생함.
 - [x] [boj_3653 영화 수집](https://github.com/evelyn82/Algorithm/blob/master/Tree/ps/boj_3653.cpp)
     > 가지고 있는 영화 수 n과 보려고 하는 영화 수 m은 최대 1e5개 주어진다.<br>fenwick tree를 이용해 현재 내가 보려고 하는 영화 index 앞에(문제에선 위) 몇개의 영화가 존재하는지 sum method로 구할 수 있다.<br>탐색 후 보려고 하는 영화를 맨 위에 놓아야 하므로 현재 fenwick tree에서 맨 앞에 있는 index 앞에 추가 시킨다.<br>즉, 초기설정을 보려고하는 영화 수만큼 0 ~ (m - 1) 만큼 비워두고 m index부터 영화 1부터 n까지 채워 앞으로 가져오면서 탐색하면 된다.<br>
+- [x] [7578 공장]((https://github.com/evelyn82/Algorithm/blob/master/Tree/ps/boj_7578.cpp))
+    > 설명 추가 예정
 
 ## Segment tree
 
