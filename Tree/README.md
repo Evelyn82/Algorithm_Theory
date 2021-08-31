@@ -11,10 +11,9 @@
 ## Segment tree
 
 - [x] [boj_6549 히스토그램에서 가장 큰 직사각형](https://github.com/evelyn82/Algorithm/blob/master/Tree/ps/boj_6549.cpp)
-    > ![png](/img/boj_6549.png){: .align-center}{: width="100%" height="100%"}<br>
-
-    segment tree에 범위 내에서 가장 작은 높이를 갖는 index를 저장한다.<br>
-    분할정복 시 분할하는 기준을 범위 내에서 가장 작은 높이로 설정해 탐색하면 된다.<br>
+    > ![png](/img/boj_6549.png)<br>
+    >segment tree에 범위 내에서 가장 작은 높이를 갖는 index를 저장한다.<br>
+    >분할정복 시 분할하는 기준을 범위 내에서 가장 작은 높이로 설정해 탐색하면 된다.<br>
 
 - [x] [boj_2104 부분배열 고르기](https://github.com/evelyn82/Algorithm/blob/master/Tree/ps/boj_2104.cpp)
 - [x] [boj_2243 사탕상자](https://github.com/evelyn82/Algorithm/blob/master/Tree/ps/boj_2243.cpp)]
