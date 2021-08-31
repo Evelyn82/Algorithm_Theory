@@ -2,8 +2,9 @@
 ## Fenwick tree
 
 - [x] [boj_1275 커피숍](https://www.acmicpc.net/problem/1275)
-- [x] [***boj_1280 나무 심기***](https://www.acmicpc.net/problem/1280)
-- [x] [**boj_2517 달리기**](https://www.acmicpc.net/problem/2517)
+- [x] [**_boj_1280 나무 심기_**](https://www.acmicpc.net/problem/1280)
+- [x] [**_boj_2517 달리기_**](https://www.acmicpc.net/problem/2517)
+- [x] [boj_3653 영화 수집](https://www.acmicpc.net/problem/3653)
 
 ## Segment tree
 
