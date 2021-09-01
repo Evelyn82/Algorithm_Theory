@@ -34,6 +34,7 @@ void backTracking(int state, int sCnt, int totalCnt){
 int main(){
     for(int i = 0; i < 5; ++i) for(int j = 0; j < 5; ++j) scanf(" %c", &c[i][j]);
     
+    // 25C7 = 480,700가지의 경우를 모두 탐색
     answer = 0;
     for(int i = 0; i < 5; ++i){
         for(int j = 0; j < 5; ++j){
