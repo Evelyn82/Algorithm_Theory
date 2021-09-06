@@ -1,5 +1,5 @@
 
 ## BackTracking
 
-- [x] 소문난 칠공주
-    - 비트 연산 : [(https://github.com/evelyn82/Algorithm/blob/master/Graph/ps/boj_1941.cpp)](https://github.com/evelyn82/Algorithm/blob/master/Graph/ps/boj_1941.cpp)
+- [x] [소문난 칠공주](https://github.com/evelyn82/Algorithm/blob/master/Graph/ps/boj_1941.cpp)
+    > 비트 연산을 이용해 25C7 = 480,700가지의 경우를 모두 탐색했는데, 더 좋은 방법이 있을 것 같음.
