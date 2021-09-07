@@ -7,3 +7,7 @@
 - [x] [15659 연산자 끼워넣기(3)](https://github.com/evelyn82/Algorithm/blob/master/Graph/ps/boj_15659.cpp)
 - [ ] [17825 주사위 윷놀이] 
     > 포스팅 예정
+
+## union-find
+
+- [x] [10775 공항](https://github.com/evelyn82/Algorithm/blob/master/Graph/ps/boj_10775.cpp)
