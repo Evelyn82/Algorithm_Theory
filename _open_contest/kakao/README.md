@@ -1,8 +1,8 @@
 
 ## 21 Blind Recruitment
 
-- [x] [신규 아이디 추천]
-- [x] [메뉴 리뉴얼]
+- [x] [신규 아이디 추천](https://github.com/evelyn82/Algorithm/blob/master/_open_contest/kakao/21_blind/id_recommendation.cpp)
+- [x] [메뉴 리뉴얼](https://github.com/evelyn82/Algorithm/blob/master/_open_contest/kakao/21_blind/menu_renewal.cpp)
     > ![png](/_img/kakao21_blind_menu_renewal.png)<br>
     주문 1개당 최대 10가지의 메뉴가 가능하다.<br>
     course는 2이상 10이하이다.<br>
