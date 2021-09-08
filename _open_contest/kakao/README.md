@@ -3,7 +3,7 @@
 
 - [x] [신규 아이디 추천]
 - [x] [메뉴 리뉴얼]
-    > ![png](/_img/kakao21_blind_p2.png)<br>
+    > ![png](/_img/kakao21_blind_menu_renewal.png)<br>
     주문 1개당 최대 10가지의 메뉴가 가능하다.<br>
     course는 2이상 10이하이다.<br>
     최대 10가지 메뉴에서 2개부터 10개까지의 조합의 개수는 1013개이다.<br>
