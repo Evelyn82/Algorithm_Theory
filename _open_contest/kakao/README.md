@@ -7,3 +7,5 @@
 
 - [x] [순위 검색](https://github.com/evelyn82/Algorithm/blob/master/_open_contest/kakao/21_blind/ranking_search.cpp)
 - [x] [택시 요금](https://github.com/evelyn82/Algorithm/blob/master/_open_contest/kakao/21_blind/taxi_fare.cpp)
+- [x] [광고 삽입](https://github.com/evelyn82/Algorithm/blob/master/_open_contest/kakao/21_blind/ad_insert.cpp)
+    > ssacnf로 string에서 시간을 읽는 방법을 발견했지만, 빠르지 않았다.<br>더 자세한 내용은 게시물로 올릴 예정.<br>
