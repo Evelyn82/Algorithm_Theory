@@ -8,4 +8,4 @@
 - [x] [순위 검색](https://github.com/evelyn82/Algorithm/blob/master/_open_contest/kakao/21_blind/ranking_search.cpp)
 - [x] [택시 요금](https://github.com/evelyn82/Algorithm/blob/master/_open_contest/kakao/21_blind/taxi_fare.cpp)
 - [x] [광고 삽입](https://github.com/evelyn82/Algorithm/blob/master/_open_contest/kakao/21_blind/ad_insert.cpp)
-    > ssacnf로 string에서 시간을 읽는 방법을 발견했지만, 빠르지 않았다.<br>더 자세한 내용은 게시물로 올릴 예정.<br>
+    >![png](/_img/kakao21_blind_ad_insert.png)<br>ssacnf로 string에서 시간을 읽는 방법을 발견했지만 빠르지 않았다.<br>prefix sum으로 구현했는데 계산과정에서 마이너스 값이 발생하므로 prefix sum을 두번한 다음 탐색했다.<br>더 자세한 내용은 게시물로 올릴 예정.<br>
