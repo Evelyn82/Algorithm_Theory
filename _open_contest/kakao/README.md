@@ -14,6 +14,11 @@
     > 다음 탐색에서 A라는 2장의 카드를 선택하겠다.<br>그러면 현재 지점에서 A라는 2장의 카드로 가는 경로를 구하고(dist1(line65), dist2(line66)) 2개의 카드 중 다음 탐색의 시작점을 어디로 할 것인지 정한다.<br>다음 탐색의 기준은 BackTracking으로 answer이 더 적은 쪽을 선택한다.<br><br>여기서 2장의 카드 중 어떤 카드를 선택해도 둘 사이의 answer를 구해야 한다.<br>계속 에러가 났던 부분이 이 부분이다.<br>둘 사이의 answer는 어느 점을 기준으로 해도 동일할 것이라고 생각하는데 해당 개념은 정답처리가 되지 않으며, **아직도 왜인지 이유를 알지 못한다.**<br>기준점을 따로해 계산해준 결과 정답처리가 되었다.<br>
 
 
-    ## 20 Blind Recruitment
+## 20 Blind Recruitment
 
-    - [x] [가사 검색](https://github.com/evelyn82/Algorithm/blob/master/_open_contest/kakao/20_blind/lyrics_search.cpp)
+- [x] [가사 검색](https://github.com/evelyn82/Algorithm/blob/master/_open_contest/kakao/20_blind/lyrics_search.cpp)
+
+
+## 20 Blind Recruitment
+
+- [x] [후보키](https://github.com/evelyn82/Algorithm/blob/master/_open_contest/kakao/19_blind/candidate_key.cpp)
